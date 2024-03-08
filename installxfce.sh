@@ -1,3 +1,6 @@
+# Copyright (c) Tim Krebs
+# SPDX-License-Identifier: MPL-2.0
+
 # installing xfce 
 sudo apt-get update
 sudo DEBIAN_FRONTEND=noninteractive apt-get -y install xfce4

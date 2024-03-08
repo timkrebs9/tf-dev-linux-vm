@@ -1,3 +1,6 @@
+# Copyright (c) Tim Krebs
+# SPDX-License-Identifier: MPL-2.0
+
 Write-Host "Initializing Terraform..."
 terraform init -upgrade
 
